@@ -1,1 +1,10 @@
 This is for basic version....
+
+Assumptions :
+
+(1)Parking has single-entry and single-exit.
+(2)Admin manages and configure the automated system.
+
+Challenges :
+(1)We have not made provision for different types vehicle like two-wheelers and four-wheelers.
+(2)We have not made different floors or levels of praking.
