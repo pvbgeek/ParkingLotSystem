@@ -1,1 +1,3 @@
-This is for advanced version.
+This is for advanced version....
+
+All the challenges in the basic version are solved in this version.
